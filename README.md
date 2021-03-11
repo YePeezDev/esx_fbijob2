@@ -1,6 +1,6 @@
 # esx_fbijob v2
 
-- Ceci est la V2 du FBI, nouveau marker qui sont maintenant au sol et ensuite des débugs du scripts.
+- Ceci est la V2 du FBI, nouveau marker qui sont maintenant au sol et débugs du scripts.
 
 - Le script a était créer a l'aide de esx_policejob. 
 
@@ -24,7 +24,7 @@ Par YePeezFive
 
 -------------------
 
-- This is FBI V2, new marker which are now on the ground and then script debugs.
+- This is FBI V2, new marker which are now on the ground and script debugs.
 
 - The script was to create an esx_policejob helper.
 
