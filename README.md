@@ -1,5 +1,7 @@
 # esx_fbijob v2
 
+- Ceci est la V2 du FBI, nouveau marker qui sont maintenant au sol et ensuite des débugs du scripts.
+
 - Le script a était créer a l'aide de esx_policejob. 
 
 <h3>Voici les autres scripts que esx_fbijob a besoin pour fonctionner</h3>
@@ -21,6 +23,8 @@ esx_license
 Par YePeezFive
 
 -------------------
+
+- This is FBI V2, new marker which are now on the ground and then script debugs.
 
 - The script was to create an esx_policejob helper.
 
